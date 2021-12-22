@@ -1,5 +1,6 @@
 .places__url {
   margin: 0;
+  margin-bottom: 12px;
   font-size: 12px;
   line-height: 1;
 }

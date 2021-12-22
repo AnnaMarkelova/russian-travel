@@ -1,6 +1,7 @@
 :root {
-  --basic-black: #2a2c2f;
-  --basic-white: #ffffff;
+  --basic-gray: #2a2c2f;
+  --basic-white: #fff;
+  --basic-black: #000;
 }
 
 .page {
