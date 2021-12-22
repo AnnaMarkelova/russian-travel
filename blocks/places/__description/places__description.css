@@ -1,0 +1,10 @@
+.places__description {
+  margin: 0;
+  margin-bottom: 26px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.places__description:last-child {
+  margin-bottom: 0;
+}

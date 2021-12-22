@@ -1,0 +1,9 @@
+.intro__list {
+  margin-bottom: 10px;
+  font-size: 18px;
+  line-height: 12px;
+}
+
+.intro__list:last-child {
+  margin-bottom: 0;
+}

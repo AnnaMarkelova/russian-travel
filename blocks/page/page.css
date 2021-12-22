@@ -6,8 +6,6 @@
 .page {
   min-width: 320px;
   max-width: 1280px;
-  margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  background-color: var(--basic-black);
   color: var(--basic-white);
 }
