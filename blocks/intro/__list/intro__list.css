@@ -1,7 +1,7 @@
 .intro__list {
   margin-bottom: 10px;
   font-size: 18px;
-  line-height: 12px;
+  line-height: 0.7;
 }
 
 .intro__list:last-child {
