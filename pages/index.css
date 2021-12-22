@@ -47,10 +47,16 @@
 @import url(../blocks/places/__title/places__title.css);
 @import url(../blocks/places/__url/places__url.css);
 
+@import url(../blocks/container-places/container-places.css);
+@import url(../blocks/container-places/__block-description/container-places__block-descriptio.css);
+@import url(../blocks/container-places/__block-details/container-places__block-details.css);
+@import url(../blocks/container-places/__block-link/container-places__block-link.css);
+@import url(../blocks/container-places/__block-title/container-places__block-title.css);
+
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__description/cover__description.css);
-@import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__link/cover__link.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
