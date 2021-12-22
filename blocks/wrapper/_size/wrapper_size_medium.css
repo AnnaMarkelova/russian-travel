@@ -2,3 +2,24 @@
   margin-left: 148px;
   margin-right: 148px;
 }
+
+@media screen and (max-width: 1024px) {
+  .wrapper_size_medium {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .wrapper_size_medium {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .wrapper_size_medium {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}

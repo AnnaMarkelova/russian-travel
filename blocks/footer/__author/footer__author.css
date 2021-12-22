@@ -3,3 +3,11 @@
   font-size: 14px;
   line-height: 1.1;
 }
+
+@media screen and (max-width: 320px) {
+  .footer__author {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1;
+  }
+}

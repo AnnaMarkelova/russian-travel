@@ -1,0 +1,24 @@
+.places__positioner {
+  display: flex;
+  align-items: flex-start;
+  column-gap: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+  .places__positioner {
+    column-gap: 32px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places__positioner{
+    column-gap: 28px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places__positioner {
+    flex-wrap: wrap;
+    row-gap: 32px;
+  }
+}
