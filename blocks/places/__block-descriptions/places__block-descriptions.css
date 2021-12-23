@@ -1,16 +1,8 @@
-.places__block-descriptions {
-  width: 100%;
-  max-width: 484px;
-}
+.places__block-descriptions {}
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 425px) {
   .places__block-descriptions {
-    width: 50%;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .places__block-descriptions {
-    width: 50%;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
