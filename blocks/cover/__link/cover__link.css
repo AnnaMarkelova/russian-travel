@@ -11,7 +11,6 @@
   background-position: center;
   text-decoration: none;
   color: var(--basic-white);
-  box-shadow: 0px 5px 5px var(--basic-black);
 }
 
 .cover__link::before {
@@ -45,6 +44,6 @@
 
 @media screen and (max-width: 425px) {
   .cover__link {
-    min-height: 250px;
+    min-height: 200px;
   }  
 }
