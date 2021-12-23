@@ -3,3 +3,16 @@
   font-size: 10px;
   line-height: 1.4;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__image-alt {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .lead__image-alt {
+    padding-left: 16px;
+    padding-right: 16px;
+}
