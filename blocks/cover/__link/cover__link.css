@@ -21,7 +21,7 @@
   right: 0;
   bottom: 0;
   background: var(--basic-gray);
-  opacity: 25%;
+  opacity: 30%;
   z-index: -1;
   transition: opacity .5s ease;
 }
