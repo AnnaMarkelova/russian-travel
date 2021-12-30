@@ -1,6 +1,16 @@
+.places {
+  margin-bottom: 92px;
+}
+
+@media screen and (max-width: 768px) {
+  .places {
+    margin-bottom: 88px;
+  }
+}
+
 @media screen and (max-width: 425px) {
   .places {
     margin: 0;
-    margin-bottom: 66px;
-  }  
+    margin-bottom: 64px;
+  }
 }
